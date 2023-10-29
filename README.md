@@ -1,0 +1,1 @@
+# Simple singleton C++ logger
